@@ -1,0 +1,240 @@
+header{
+    background-color: #66b3ff;
+    width:500px;
+    border-bottom: 3px solid black;
+    font-family: "Raleway", sans-serif;
+    text-align:center;
+}
+
+hr{
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+
+#intestazione>h1{
+    color: white;
+}
+#intestazione>h2{
+    border-bottom: solid, 1px, white;
+    background-color: white;
+    margin-left: 30%;
+    margin-right:30% ;
+    height: 5%;
+    padding-top: 2.5%;
+    text-transform: uppercase ;
+    font-family:"Raleway", sans-serif; ;
+}
+
+#WEB{
+    padding-bottom: 2.5%;
+    font-style: "Raleway", sans-serif; 
+    font-size:120%;
+}
+
+#menu  :hover{
+    color:#0056b3;
+    font-size: 3vh;
+}
+.link1{
+    color:#343a40;
+    font-size: 2vh;
+}
+.link2{
+    color:#343a40;
+    font-size: 2vh;
+}
+.link3{
+    color:#343a40;
+    font-size: 2vh;
+}
+.link4{
+    color:#343a40;
+    font-size: 2vh;
+}
+
+
+main{
+    width:500px;
+    border-right:2px solid black;
+    border-left: 2px solid black;
+}
+.schedaContatti>h2{
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    color: #0056b3;
+}
+
+#img{
+    text-align: center;
+}
+#img >img{
+    width: 30vh;
+}
+
+.schedaContatti>p{
+    text-align: center;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#info{
+    text-align: center;
+}
+
+#info>p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#0056b3;
+} 
+
+#telefono{
+    padding-top: 10px;
+    
+}
+#telefono>span{
+    border-bottom: 2px solid black;
+    padding-left: 5px;
+}
+#wt{
+    padding-top:10px;
+}
+
+#wt>span{
+    border-radius: 2px solid black;
+    padding-left: 5px;
+}
+
+#cale>span{
+    border-bottom: 2px solid black;
+    padding-left: 5px;
+}
+
+.SuDiMe>h2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+.SuDiMe>blockquote{
+    text-align: center;
+    font-size: 120%;
+    font-family:  "Raleway", sans-serif; 
+    border-radius: 30px;
+    background-color: whitesmoke;
+    padding: 2em;
+}
+
+
+.presentazione>h2{
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    color: #0056b3;
+}
+
+.presentazione>p{
+    margin-left: 1em;
+    margin-right: 1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:120%;
+    text-align: center;
+}
+
+.presentazione>p>span{
+    color:#0056b3;
+}
+
+.Formazione{
+    margin-left: 1em;
+}
+.Formazione>h2{
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    color: #0056b3;
+}
+
+.Formazione>h4{
+    font-family: "Raleway", sans-serif;
+    font-size:120%;
+    text-transform: uppercase;
+}
+
+.Formazione>p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:120%;
+    margin-left: 2em;
+    margin-right: 2em;
+    text-align: center;
+}
+
+.Formazione>p>span{
+    background-color: #0078f9;
+    color:whitesmoke;
+}
+.Competenze{
+    margin-left: 1em;
+}
+.Competenze>h2{
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    color: #0056b3;
+}
+
+.Competenze>h4{
+    font-family: "Raleway", sans-serif;;
+    font-size:120%;
+    text-transform: uppercase;
+}
+
+.Competenze>ol>li{
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size:120%;
+}
+
+.Competenze>dt{
+    font-family: "Raleway", sans-serif;
+    font-size:100%;
+    text-transform: uppercase;
+}
+
+.Competenze>dd{
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+    font-family:  "Raleway", sans-serif;
+    font-size:100%;
+}
+
+footer{
+    width:500px;
+    border: 3px solid black;
+    background-color: #66b3ff;
+}
+
+footer>div{
+    margin-left: 1em;
+    margin-right:1em;
+}
+
+.p1{
+    text-align: center;
+    color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1em;
+}
+.p1>span{
+    color:yellow;
+    text-transform: uppercase;
+}
+
+.p2{
+    text-align: center;
+    color: rgb(218, 214, 214);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 0.8em;
+}
+
+.p3{
+    text-align: center;
+    color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1em;
+}
